@@ -1,0 +1,70 @@
+﻿image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D01.png,face,glasses,khác giá trị (IoU=0.84),none,unknown,mine,4.5,giu none vi tai xe khong deo kinh
+D01.png,face13,right_eye_outer.outside,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face,eye_left,khác giá trị (IoU=0.93),closed,unknown,mine,4.5,giu closed vi thay ro 2 mi mat khep
+D02.png,face,eye_right,khác giá trị (IoU=0.93),closed,unknown,mine,4.5,giu closed vi thay ro 2 mi mat khep
+D02.png,face13,left_eye_outer.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,left_eye_inner.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,left_eye_upper.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,left_eye_lower.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,right_eye_outer.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,right_eye_inner.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,right_eye_upper.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D02.png,face13,right_eye_lower.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D03.png,face,eye_right,khác giá trị (IoU=0.82),unknown,open,mine,4.4-1,giu unknown vi mat bi dom phan xa che khuat
+D03.png,face13,right_eye_outer.occluded,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_outer.outside,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_inner.occluded,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_upper.occluded,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_upper.outside,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_lower.occluded,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,right_eye_lower.outside,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D03.png,face13,mouth_right.outside,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D04.png,person,seatbelt,khác giá trị (IoU=0.91),worn_correct,unknown,mine,4.7,giu worn_correct vi thay ro day cheo qua vai
+D04.png,face,gaze_zone,khác giá trị (IoU=0.87),center,road,mine,4.4,thong nhat theo guideline v1.0
+D05.png,face,gaze_zone,khác giá trị (IoU=0.59),mirror_r,other,mine,4.4,thong nhat theo guideline v1.0
+D05.png,face,glasses,khác giá trị (IoU=0.59),clear,unknown,mine,4.4,thong nhat theo guideline v1.0
+D05.png,hand,on_wheel,khác giá trị (IoU=0.84),no,unknown,mine,4.4,thong nhat theo guideline v1.0
+D05.png,hand,on_wheel,khác giá trị (IoU=0.67),no,unknown,mine,4.4,thong nhat theo guideline v1.0
+D05.png,face13,right_eye_outer.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,right_eye_inner.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,right_eye_upper.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,right_eye_lower.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,nose_tip.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,mouth_left.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,lip_upper.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D05.png,face13,lip_lower.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D06.png,face,glasses,khác giá trị (IoU=0.86),clear,unknown,mine,4.4,thong nhat theo guideline v1.0
+D06.png,person,seatbelt,khác giá trị (IoU=0.89),worn_correct,unknown,mine,4.7,giu worn_correct vi thay ro day cheo qua vai
+D06.png,face13,mouth_left.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,mouth_left.outside,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,mouth_right.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,mouth_right.outside,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,lip_upper.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,lip_upper.outside,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,lip_lower.occluded,khác cờ,0,1,mine,4.6,dong thuan vi tri va co diem
+D06.png,face13,lip_lower.outside,khác cờ,1,0,mine,4.6,dong thuan vi tri va co diem
+S01_ir.png,face,eye_right,khác giá trị (IoU=0.80),open,unknown,mine,4.4,thong nhat theo guideline v1.0
+S01_ir.png,face,gaze_zone,khác giá trị (IoU=0.80),mirror_r,other,mine,4.4,thong nhat theo guideline v1.0
+S01_ir.png,face,glasses,khác giá trị (IoU=0.80),none,unknown,mine,4.4,thong nhat theo guideline v1.0
+S01_rgb.png,object,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.8,giu box object cho do vat tren ghe
+S01_rgb.png,face,eye_right,khác giá trị (IoU=0.83),open,unknown,mine,4.4,thong nhat theo guideline v1.0
+S01_rgb.png,face,gaze_zone,khác giá trị (IoU=0.83),mirror_r,other,mine,4.4,thong nhat theo guideline v1.0
+S01_rgb.png,face,glasses,khác giá trị (IoU=0.83),none,unknown,mine,4.4,thong nhat theo guideline v1.0
+S02_rgb.png,child_seat,occupied,khác giá trị (IoU=0.80),no,unknown,mine,4.8,giu no vi nhin ro ghe trong
+S05_ir.png,child_seat,occupied,khác giá trị (IoU=0.91),no,unknown,mine,4.8,giu no vi nhin ro ghe trong
+S05_rgb.png,child_seat,occupied,khác giá trị (IoU=0.89),no,unknown,mine,4.8,giu no vi nhin ro ghe trong
+S07_ir.png,person,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S07_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S07_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.4,thong nhat theo guideline v1.0
+S07_rgb.png,child_seat,occupied,khác giá trị (IoU=0.94),unknown,yes,ambiguous,4.4-1,"anh hoi toi, chap nhan ca 2 phuong an"
+S07_rgb.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S07_rgb.png,person,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S07_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.4,thong nhat theo guideline v1.0
+S08_ir.png,person,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S08_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S08_ir.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S08_ir.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.4,thong nhat theo guideline v1.0
+S08_rgb.png,face,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S08_rgb.png,person,box,chỉ có ở mine (hoặc IoU thấp),IoU=0.00,,mine,4.4,thong nhat theo guideline v1.0
+S08_rgb.png,child_seat,box,chỉ có ở peer (hoặc IoU thấp),,,mine,4.4,thong nhat theo guideline v1.0

@@ -1,0 +1,6 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S01_ir,IR_sim,"độ tương phản thấp giữa áo sẫm màu và bóng tối ghế sau",seatbelt,"để unknown; trên RGB nhận biết rõ ranh giới hơn"
+S04_ir,IR_sim,"mất thông tin màu sắc và hoa văn của đồ vật",type,"chọn other thay vì phân biệt rõ túi xách vải như trên bản RGB"
+D03,real_IR,"đốm phản xạ đèn LED hồng ngoại trên bề mặt kính che mắt phải",eye_right,"ghi unknown, không đoán closed hay open"
+D05,real_IR,"bước sóng NIR 940nm đi xuyên qua tròng kính râm tối màu",glasses,"nhìn thấy mắt qua kính râm nhưng vẫn nhận diện gọng kính để phân loại"
+
